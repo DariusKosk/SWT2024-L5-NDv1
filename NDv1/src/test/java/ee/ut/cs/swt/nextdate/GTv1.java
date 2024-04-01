@@ -19,7 +19,6 @@ public class GTv1 {
 	    assertEquals("invalid Input Date", string0);
 	}
 
-
 	@Test(timeout = 4000)
 	public void testCreatesNextDate3() throws Throwable {
 	    NextDate nextDate0 = new NextDate(9, 9, 9);
