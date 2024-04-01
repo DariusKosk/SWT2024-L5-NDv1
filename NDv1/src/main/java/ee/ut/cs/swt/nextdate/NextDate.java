@@ -180,7 +180,7 @@ public class NextDate {
 	 * 			it is divisible by 400
 	 */
 
-	// To enable leap year functionality, first uncomment the lines starting from 184-190, and then perform the following two steps step 1: uncomment lines 85-87 and 90, step 2: uncomment lines 94-97 and 99
+	// To enable leap year functionality, first uncomment the lines starting from 184-190, and then perform the following two steps step 1: uncomment lines 85-87 and 90, step 2: uncomment lines 94-97 and 99.
 	private static boolean isLeapYear(int year)
 	{
 		if((year % 100) == 0)
