@@ -2,7 +2,6 @@ package ee.ut.cs.swt.nextdate;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
-
 public class GTv1 {
 
 	@Test(timeout = 4000)
